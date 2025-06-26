@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /><h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mikias+Abate!;" /> </h1><h3 align="center">Information Systems Graduate | Full-Stack Developer</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /><h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mikias+Abate!;" /> </h1><h3 align="center">Microsoft Certified Azure Data Scientist | AI/ML Enthusiast | Full-Stack Developer | Python, Django & JavaScript (MERN, Next.js)</h3>
 <div align="center">
 
 🎓 Recent BSc graduate in Information Systems from Addis Ababa University
