@@ -27,14 +27,14 @@ AI Engineer • Data Scientist • Full-Stack Developer
 💻 Full-Stack Developer
 Python • Django • React • Next.js • Node.js
 
-📊 Interests
+📊 Focus Areas
 Machine Learning • Data Engineering • AI Systems
 
-🔐 Exploring
-Network Security • Scalable Backend Architecture
+🔐 Currently Learning
+Network Security • Distributed Systems • Scalable Backend Architecture
 
 🌐 Portfolio
-https://www.mikiasabate.tech
+**https://www.mikiasabate.tech**
 
 ---
 
@@ -48,7 +48,7 @@ https://www.mikiasabate.tech
 
 ---
 
-# 📊 GitHub Statistics (Live Data)
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -70,7 +70,7 @@ https://www.mikiasabate.tech
 
 ---
 
-# 📈 Contribution Activity Graph
+# 📈 GitHub Contribution Graph
 
 <p align="center">
 
@@ -84,30 +84,37 @@ https://www.mikiasabate.tech
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mikias1219&theme=tokyonight&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mikias1219&theme=tokyonight&margin-w=10&margin-h=10&row=1"/>
 
 </p>
 
 ---
 
-# 📊 Developer Metrics (Live GitHub Data)
+# 📊 Developer Metrics Dashboard
 
 <p align="center">
 
-<img src="https://metrics.lecoq.io/mikias1219?template=classic&languages=1&introduction=1&habits=1&activity=1&repositories=1&achievements=1&followup=1"/>
+<img src="https://metrics.lecoq.io/mikias1219?template=classic&languages=1&introduction=1&activity=1&repositories=1&achievements=1&followup=1"/>
 
 </p>
 
 ---
 
-# 📌 Featured Work
+# 🐍 Contribution Snake Animation
 
-You can highlight your best repositories here.
+<p align="center">
 
-• AI business automation systems
-• Machine learning prediction pipelines
-• Full-stack SaaS platforms (Django + React)
-• AI assistant applications
+<img src="https://raw.githubusercontent.com/mikias1219/mikias1219/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<a href="https://github.com/mikias1219?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mikias1219&repo=your-best-repo&theme=tokyonight"/>
+</a>
 
 ---
 
@@ -115,7 +122,7 @@ You can highlight your best repositories here.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/mikiyas-abate">
+<a href="https://www.linkedin.com/in/mikiyas-abate">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -133,6 +140,6 @@ You can highlight your best repositories here.
 
 # 🌟 Philosophy
 
-> **Code • Build • Innovate**
+> **Code • Create • Innovate**
 
 Turning data into intelligence and ideas into scalable systems.
