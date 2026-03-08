@@ -1,15 +1,17 @@
 <!-- PROFILE VIEWS -->
+
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=mikias1219&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=mikias1219&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 <!-- HEADER -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Mikias+Abate;AI+Engineer+%7C+Full+Stack+Developer;Azure+Certified+Data+Scientist;Building+AI+Powered+Solutions"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Mikias+Abate;AI+Engineer+%7C+Full+Stack+Developer;Azure+Certified+Data+Scientist;Building+AI+Powered+Solutions"/>
 </h1>
 
 <h3 align="center">
-AI Engineer • Data Scientist • Full Stack Developer
+AI Engineer • Data Scientist • Full-Stack Developer
 </h3>
 
 ---
@@ -18,90 +20,35 @@ AI Engineer • Data Scientist • Full Stack Developer
 
 🎓 **BSc in Information Systems — Addis Ababa University**
 
-💼 **AI & Data Science Professional**
+💼 AI & Data Science Professional
 
-☁️ **Microsoft Certified Azure Data Scientist**
+☁️ **Microsoft Certified: Azure Data Scientist Associate**
 
-💻 **Full-Stack Developer**
-- Python
-- Django
-- React
-- Next.js
-- Node.js
+💻 Full-Stack Developer
+Python • Django • React • Next.js • Node.js
 
-📊 Specialized in
-- Machine Learning
-- Deep Learning
-- Data Engineering
-- AI Systems
+📊 Interests
+Machine Learning • Data Engineering • AI Systems
 
 🔐 Exploring
-- Network Security
-- Distributed Systems
-- Scalable Backend Architectures
+Network Security • Scalable Backend Architecture
 
-🌐 Portfolio  
-**https://www.mikiasabate.tech**
+🌐 Portfolio
+https://www.mikiasabate.tech
 
 ---
 
 # ⚡ Tech Stack
 
-### Programming
-![skills](https://skillicons.dev/icons?i=python,js,ts)
+<p align="center">
 
-### Backend
-![skills](https://skillicons.dev/icons?i=django,nodejs,express)
+<img src="https://skillicons.dev/icons?i=python,django,nodejs,react,nextjs,ts,js,html,css,mongodb,postgres,tensorflow,azure,docker,git,github"/>
 
-### Frontend
-![skills](https://skillicons.dev/icons?i=react,nextjs,html,css)
-
-### Database
-![skills](https://skillicons.dev/icons?i=mongodb,postgresql)
-
-### AI / ML
-![skills](https://skillicons.dev/icons?i=tensorflow,pytorch)
-
-### Cloud & Tools
-![skills](https://skillicons.dev/icons?i=azure,docker,git,github)
+</p>
 
 ---
 
-# 🏆 Certifications
-
-### Microsoft
-**Azure Data Scientist Associate**  
-Issued: Jun 2025
-
-### DataCamp
-- Data Engineer — Professional  
-- AI Engineer for Data Scientists — Associate  
-- AI Engineer for Developers — Associate  
-- Data Engineer — Associate  
-
-### Other
-- Skillsoft — Fundamentals of AI & ML  
-- Udacity — Data Analysis Fundamentals  
-
----
-
-# 🚀 Featured Projects
-
-### 🤖 AI Business Automation
-AI models that automate business workflows and analytics.
-
-### 📊 ML Prediction Systems
-Machine learning pipelines for predictive analytics.
-
-### 🌐 Full Stack SaaS Applications
-Django + React production ready systems.
-
-### 🧠 AI Chat Applications
-LLM based intelligent assistant tools.
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics (Live Data)
 
 <p align="center">
 
@@ -113,45 +60,54 @@ LLM based intelligent assistant tools.
 
 ---
 
-# 🔥 GitHub Contribution Streak
+# 🔥 Contribution Streak
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikias1219&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 📈 GitHub Activity Graph
+# 📈 Contribution Activity Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikias1219&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/mikias1219/mikias1219/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mikias1219&theme=tokyonight&margin-w=10&margin-h=10"/>
+
 </p>
 
 ---
 
-# 🧩 Developer Scorecard
+# 📊 Developer Metrics (Live GitHub Data)
 
-| Category | Grade |
-|--------|--------|
-| AI & Machine Learning | A |
-| Backend Development | A |
-| Full Stack Development | A- |
-| Cloud (Azure) | A |
-| Data Engineering | A |
-| DevOps | B+ |
-| Cybersecurity | B |
+<p align="center">
 
-## 🅰️ Overall Grade: **A**
+<img src="https://metrics.lecoq.io/mikias1219?template=classic&languages=1&introduction=1&habits=1&activity=1&repositories=1&achievements=1&followup=1"/>
 
-AI Engineer • Data Scientist • Full Stack Developer
+</p>
+
+---
+
+# 📌 Featured Work
+
+You can highlight your best repositories here.
+
+• AI business automation systems
+• Machine learning prediction pipelines
+• Full-stack SaaS platforms (Django + React)
+• AI assistant applications
 
 ---
 
