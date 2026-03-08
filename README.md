@@ -1,13 +1,11 @@
-<!-- PROFILE VIEWS -->
+<!-- Profile Views -->
 
 <p align="right">
-<img src="https://komarev.com/ghpvc/?username=mikias1219&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=mikias1219&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
-<!-- HEADER -->
-
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Mikias+Abate;AI+Engineer+%7C+Full+Stack+Developer;Azure+Certified+Data+Scientist;Building+AI+Powered+Solutions"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=36&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Mikias+Abate;AI+Engineer+%7C+Full+Stack+Developer;Azure+Certified+Data+Scientist"/>
 </h1>
 
 <h3 align="center">
@@ -20,21 +18,18 @@ AI Engineer • Data Scientist • Full-Stack Developer
 
 🎓 **BSc in Information Systems — Addis Ababa University**
 
-💼 AI & Data Science Professional
-
 ☁️ **Microsoft Certified: Azure Data Scientist Associate**
+
+💼 AI & Data Science Professional
 
 💻 Full-Stack Developer
 Python • Django • React • Next.js • Node.js
 
-📊 Focus Areas
+📊 Focus
 Machine Learning • Data Engineering • AI Systems
 
-🔐 Currently Learning
-Network Security • Distributed Systems • Scalable Backend Architecture
-
 🌐 Portfolio
-**https://www.mikiasabate.tech**
+https://www.mikiasabate.tech
 
 ---
 
@@ -52,7 +47,7 @@ Network Security • Distributed Systems • Scalable Backend Architecture
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mikias1219&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mikias1219&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikias1219&layout=compact&theme=tokyonight"/>
 
@@ -60,17 +55,17 @@ Network Security • Distributed Systems • Scalable Backend Architecture
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mikias1219&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=mikias1219&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -84,37 +79,9 @@ Network Security • Distributed Systems • Scalable Backend Architecture
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mikias1219&theme=tokyonight&margin-w=10&margin-h=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mikias1219&theme=tokyonight"/>
 
 </p>
-
----
-
-# 📊 Developer Metrics Dashboard
-
-<p align="center">
-
-<img src="https://metrics.lecoq.io/mikias1219?template=classic&languages=1&introduction=1&activity=1&repositories=1&achievements=1&followup=1"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake Animation
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/mikias1219/mikias1219/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<a href="https://github.com/mikias1219?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mikias1219&repo=your-best-repo&theme=tokyonight"/>
-</a>
 
 ---
 
@@ -140,6 +107,5 @@ Network Security • Distributed Systems • Scalable Backend Architecture
 
 # 🌟 Philosophy
 
-> **Code • Create • Innovate**
-
-Turning data into intelligence and ideas into scalable systems.
+> Code • Build • Innovate
+> Turning data into intelligence.
