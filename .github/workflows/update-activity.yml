@@ -22,8 +22,8 @@ jobs:
           set -euo pipefail
 
           gh api "users/mikias1219/events/public?per_page=20" \
-            --jq '.[] | select(.type=="PushEvent" or .type=="CreateEvent" or .type=="PullRequestEvent" or .type=="IssuesEvent" or .type=="ReleaseEvent") | "- **\(.type | sub("Event$"; ""))** in [`\(.repo.name | split("/")[1])`](https://github.com/\(.repo.name)) — \(.created_at[0:10])"' \
-            | head -10 > /tmp/activity.md
+            --jq '[.[] | select(.type=="PushEvent" or .type=="CreateEvent" or .type=="PullRequestEvent" or .type=="IssuesEvent" or .type=="ReleaseEvent") | "- **\(.type | sub("Event$"; ""))** in [`\(.repo.name | split("/")[1])`](https://github.com/\(.repo.name)) — \(.created_at[0:10])"] | .[0:10][]' \
+            > /tmp/activity.md
 
           if [ ! -s /tmp/activity.md ]; then
             echo "_No recent public activity yet — check back soon._" > /tmp/activity.md
