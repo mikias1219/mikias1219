@@ -15,11 +15,39 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update README with recent GitHub activity
-        uses: jamesgeorge007/github-activity-readme@master
+      - name: Update README recent activity section
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: mikias1219
-          max: 10
-          filter_events: PushEvent,CreateEvent,PullRequestEvent,IssueCommentEvent,IssuesEvent,ReleaseEvent
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          gh api "users/mikias1219/events/public?per_page=20" \
+            --jq '.[] | select(.type=="PushEvent" or .type=="CreateEvent" or .type=="PullRequestEvent" or .type=="IssuesEvent" or .type=="ReleaseEvent") | "- **\(.type | sub("Event$"; ""))** in [`\(.repo.name | split("/")[1])`](https://github.com/\(.repo.name)) — \(.created_at[0:10])"' \
+            | head -10 > /tmp/activity.md
+
+          if [ ! -s /tmp/activity.md ]; then
+            echo "_No recent public activity yet — check back soon._" > /tmp/activity.md
+          fi
+
+          python3 - <<'PY'
+          from pathlib import Path
+
+          readme = Path("README.md")
+          activity = Path("/tmp/activity.md").read_text(encoding="utf-8").strip()
+          text = readme.read_text(encoding="utf-8")
+          start = "<!--START_SECTION:activity-->"
+          end = "<!--END_SECTION:activity-->"
+          replacement = f"{start}\n{activity}\n{end}"
+          before, rest = text.split(start, 1)
+          _, after = rest.split(end, 1)
+          readme.write_text(before + replacement + after, encoding="utf-8")
+          PY
+
+      - name: Commit activity updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet && echo "No README changes" && exit 0
+          git commit -m "Update README with recent GitHub activity"
+          git push
