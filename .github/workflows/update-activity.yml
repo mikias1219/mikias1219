@@ -22,3 +22,4 @@ jobs:
         with:
           username: mikias1219
           max: 10
+          filter_events: PushEvent,CreateEvent,PullRequestEvent,IssueCommentEvent,IssuesEvent,ReleaseEvent
