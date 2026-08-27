@@ -31,4 +31,5 @@ jobs:
           git add profile/streak.svg
           git diff --cached --quiet && echo "No streak changes" && exit 0
           git commit -m "Update streak stats"
+          git pull --rebase origin main
           git push
