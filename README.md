@@ -99,8 +99,8 @@ I'm **Mikias Abate** — a software engineer building **AI systems**, **data pro
 ### Overview
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mikias1219&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mikias1219&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=mikias1219" height="180" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikias1219&theme=tokyoNight" height="180" alt="GitHub stats" />
+  <img src="https://gitglance-eight.vercel.app/api/langs?username=mikias1219&theme=tokyonight" height="180" alt="Top languages" />
 </p>
 
 ### Profile Details
@@ -119,7 +119,7 @@ I'm **Mikias Abate** — a software engineer building **AI systems**, **data pro
 ### Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mikias1219&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+  <img src="./profile/streak.svg" alt="GitHub streak" />
 </p>
 
 ### Contribution Graph
