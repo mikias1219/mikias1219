@@ -99,8 +99,8 @@ I'm **Mikias Abate** — a software engineer building **AI systems**, **data pro
 ### Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikias1219&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikias1219&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=mikias1219" height="180" alt="Top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mikias1219&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mikias1219&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=mikias1219" height="180" alt="Top languages" />
 </p>
 
 ### Profile Details
@@ -119,19 +119,20 @@ I'm **Mikias Abate** — a software engineer building **AI systems**, **data pro
 ### Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikias1219&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=mikias1219&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 </p>
 
 ### Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikias1219&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20(Live)" alt="Contribution activity graph" />
+  <img src="https://gitglance-eight.vercel.app/api/activity?username=mikias1219&theme=tokyonight&days=28" alt="Contribution activity graph" />
 </p>
 
-### GitHub Trophies
+### GitHub Insights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mikias1219&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mikias1219&theme=tokyoNight&utcOffset=3" alt="Productive time" />
+  <img src="https://gitglance-eight.vercel.app/api/donut?username=mikias1219&theme=tokyonight" alt="Language donut chart" />
 </p>
 
 ### Contribution Snake
