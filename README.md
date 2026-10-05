@@ -151,9 +151,9 @@ I'm **Mikias Abate** — a software engineer building **AI systems**, **data pro
 - **Push** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-04
 - **Push** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-04
 - **Push** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-04
-- **Create** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-03
-- **Push** in [`DevOps`](https://github.com/mikias1219/DevOps) — 2026-09-18
-- **Push** in [`DevOps`](https://github.com/mikias1219/DevOps) — 2026-09-18
+- **Push** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-04
+- **Push** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-04
+- **Push** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-04
 <!--END_SECTION:activity-->
 
 ---
