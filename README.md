@@ -144,7 +144,7 @@ I'm **Mikias Abate** — a software engineer building **AI systems**, **data pro
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-- **Push** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-04
+- **Push** in [`Personal_website`](https://github.com/mikias1219/Personal_website) — 2026-10-06
 - **Push** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-04
 - **Push** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-04
 - **Push** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-04
