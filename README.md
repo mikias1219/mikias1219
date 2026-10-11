@@ -146,9 +146,9 @@ I'm **Mikias Abate** — a software engineer building **AI systems**, **data pro
 <!--START_SECTION:activity-->
 - **Push** in [`Personal_website`](https://github.com/mikias1219/Personal_website) — 2026-10-11
 - **Push** in [`Personal_website`](https://github.com/mikias1219/Personal_website) — 2026-10-11
+- **Push** in [`Personal_website`](https://github.com/mikias1219/Personal_website) — 2026-10-11
+- **Push** in [`Personal_website`](https://github.com/mikias1219/Personal_website) — 2026-10-11
 - **Push** in [`Personal_website`](https://github.com/mikias1219/Personal_website) — 2026-10-06
-- **Push** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-04
-- **Push** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-04
 - **Push** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-04
 - **Push** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-04
 - **Push** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-04
