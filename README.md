@@ -144,15 +144,15 @@ I'm **Mikias Abate** — a software engineer building **AI systems**, **data pro
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+- **Push** in [`Personal_website`](https://github.com/mikias1219/Personal_website) — 2026-10-28
+- **Push** in [`Personal_website`](https://github.com/mikias1219/Personal_website) — 2026-10-29
+- **Push** in [`Personal_website`](https://github.com/mikias1219/Personal_website) — 2026-10-28
 - **Push** in [`Personal_website`](https://github.com/mikias1219/Personal_website) — 2026-10-22
 - **Push** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-18
 - **Push** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-18
 - **Push** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-18
 - **Push** in [`bibo-emplooyee-tracking`](https://github.com/mikias1219/bibo-emplooyee-tracking) — 2026-10-19
 - **Create** in [`bibo-emplooyee-tracking`](https://github.com/mikias1219/bibo-emplooyee-tracking) — 2026-10-19
-- **Push** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-18
-- **Push** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-18
-- **Push** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-18
 - **Push** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-18
 <!--END_SECTION:activity-->
 
