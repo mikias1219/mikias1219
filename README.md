@@ -144,6 +144,8 @@ I'm **Mikias Abate** — a software engineer building **AI systems**, **data pro
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+- **Push** in [`AI-Agent`](https://github.com/mikias1219/AI-Agent) — 2026-11-07
+- **Push** in [`AI-Agent`](https://github.com/mikias1219/AI-Agent) — 2026-11-07
 - **Push** in [`AI-Agent`](https://github.com/mikias1219/AI-Agent) — 2026-10-31
 - **Push** in [`Personal_website`](https://github.com/mikias1219/Personal_website) — 2026-10-29
 - **Push** in [`Personal_website`](https://github.com/mikias1219/Personal_website) — 2026-10-29
@@ -152,8 +154,6 @@ I'm **Mikias Abate** — a software engineer building **AI systems**, **data pro
 - **Push** in [`Personal_website`](https://github.com/mikias1219/Personal_website) — 2026-10-29
 - **Push** in [`Personal_website`](https://github.com/mikias1219/Personal_website) — 2026-10-28
 - **Push** in [`Personal_website`](https://github.com/mikias1219/Personal_website) — 2026-10-22
-- **Push** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-18
-- **Push** in [`Buyer-App`](https://github.com/mikias1219/Buyer-App) — 2026-10-18
 <!--END_SECTION:activity-->
 
 ---
