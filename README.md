@@ -146,13 +146,13 @@ I'm **Mikias Abate** — a software engineer building **AI systems**, **data pro
 <!--START_SECTION:activity-->
 - **Push** in [`AI-Agent`](https://github.com/mikias1219/AI-Agent) — 2026-11-08
 - **Push** in [`AI-Agent`](https://github.com/mikias1219/AI-Agent) — 2026-11-08
+- **Push** in [`AI-Agent`](https://github.com/mikias1219/AI-Agent) — 2026-11-08
+- **Push** in [`AI-Agent`](https://github.com/mikias1219/AI-Agent) — 2026-11-08
 - **Push** in [`AI-Agent`](https://github.com/mikias1219/AI-Agent) — 2026-11-07
 - **Push** in [`AI-Agent`](https://github.com/mikias1219/AI-Agent) — 2026-11-07
 - **Push** in [`AI-Agent`](https://github.com/mikias1219/AI-Agent) — 2026-10-31
 - **Push** in [`Personal_website`](https://github.com/mikias1219/Personal_website) — 2026-10-29
 - **Push** in [`Personal_website`](https://github.com/mikias1219/Personal_website) — 2026-10-29
-- **Push** in [`Personal_website`](https://github.com/mikias1219/Personal_website) — 2026-10-29
-- **Push** in [`Personal_website`](https://github.com/mikias1219/Personal_website) — 2026-10-28
 - **Push** in [`Personal_website`](https://github.com/mikias1219/Personal_website) — 2026-10-29
 <!--END_SECTION:activity-->
 
