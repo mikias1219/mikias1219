@@ -144,16 +144,16 @@ I'm **Mikias Abate** — a software engineer building **AI systems**, **data pro
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+- **PullRequest** in [`AI-Agent`](https://github.com/mikias1219/AI-Agent) — 2026-11-10
+- **PullRequest** in [`AI-Agent`](https://github.com/mikias1219/AI-Agent) — 2026-11-10
+- **Push** in [`AI-Agent`](https://github.com/mikias1219/AI-Agent) — 2026-11-09
+- **Push** in [`AI-Agent`](https://github.com/mikias1219/AI-Agent) — 2026-11-09
 - **Push** in [`AI-Agent`](https://github.com/mikias1219/AI-Agent) — 2026-11-09
 - **Push** in [`AI-Agent`](https://github.com/mikias1219/AI-Agent) — 2026-11-09
 - **Push** in [`AI-Agent`](https://github.com/mikias1219/AI-Agent) — 2026-11-09
 - **Push** in [`AI-Agent`](https://github.com/mikias1219/AI-Agent) — 2026-11-09
 - **Push** in [`AI-Agent`](https://github.com/mikias1219/AI-Agent) — 2026-11-08
 - **Push** in [`AI-Agent`](https://github.com/mikias1219/AI-Agent) — 2026-11-08
-- **Push** in [`AI-Agent`](https://github.com/mikias1219/AI-Agent) — 2026-11-09
-- **Push** in [`AI-Agent`](https://github.com/mikias1219/AI-Agent) — 2026-11-07
-- **Push** in [`AI-Agent`](https://github.com/mikias1219/AI-Agent) — 2026-11-07
-- **Push** in [`AI-Agent`](https://github.com/mikias1219/AI-Agent) — 2026-11-07
 <!--END_SECTION:activity-->
 
 ---
